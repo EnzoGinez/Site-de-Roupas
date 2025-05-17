@@ -14,6 +14,6 @@ O site apresenta um layout limpo e direto ao ponto, com as seguintes seções pr
 
 - **HTML**: Estrutura da página
 - **CSS**: Estilização e layout responsivo
-- **JavaScript**: Funcionalidades interativas (caso tenha sido usado em menus, sliders etc.)
+- **JavaScript**: Funcionalidades interativas
 
  Possui um filto de blur quando você desse o scrol do mouse sobre o site, que vem da esquerda a direita apresentando as componenetes do site.
